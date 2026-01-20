@@ -12,6 +12,7 @@
   - moving-sectional/particle-based representation of cloud microphysics;
   - "SDM" Monte-Carlo algorithm for solving coagulation problems;
   - ODEs describing evolution of liquid particle sizes in a vertically displaced adiabatic parcel of humid air for modelling diffusional growth and the resultant phenomena of aerosol activarion and drop ripening.
+- Outline the rationale behind, present the usage examples, encourage your contributions to the [PySDM](https://open-atmos.github.io/PySDM/) package
 
 #### Notebooks:
 - **Part 1**: size spectrum sampling using SciPy
