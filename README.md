@@ -1,10 +1,28 @@
 # hacking aerosol-cloud μ-physics modeling concepts in Python
 ### (mini-workshop @Uni. Washington Seattle, Jan 2026)
 
-#### Contents:
-- **Part 1**: [SDM collisional growth Monte-Carlo algorithm in a box model (with validation against analytic solution to Smoluchowski equation)](https://github.com/slayoo/seattle-2026-workshop/tree/main/part_1_SDM.ipynb)      
-- **Part 2**: [condensational growth (incl. activation and ripening) in an adiabatic parcel model](https://github.com/slayoo/seattle-2026-workshop/tree/main/part_2_CCN.ipynb)    
-- **Part 3**: particle-based μ-physics simulations with diffusional & collisional processes using PySDM (box, parcel, single-column and beyond)
+<iframe
+  src="https://mozilla.github.io/pdf.js/web/viewer.html?file=https://raw.githubusercontent.com/slayoo/seattle-2026-workshop/main/flyer.pdf"
+  width="50%"
+  height="600px"
+  style="border: none;">
+</iframe>
+
+#### Notebooks:
+- **Part 1**: size spectrum sampling using SciPy
+  - [partial]()
+  - [complete]()
+- **Part 2**: SDM collisional growth Monte-Carlo algorithm in a box model (incl. validation against the Safranov-Golovin analytic solution to the Smoluchowski equation)
+  - partial
+  - [complete](https://github.com/slayoo/seattle-2026-workshop/tree/main/part_2_SDM_complete.ipynb)      
+- **Part 3**: dimensional analysis using Pint (and PySDM.physics)
+  - [partial]()
+  - [complete]()
+- **Part 4**: condensational growth (incl. activation and ripening) in an adiabatic parcel model:
+  - partial
+  - [complete](https://github.com/slayoo/seattle-2026-workshop/tree/main/part_4_CCN_complete.ipynb)    
+- **Part 5**: particle-based μ-physics simulations with diffusional & collisional processes using PySDM (box, parcel, single-column and beyond)
+  - [PySDM documentation](https://open-atmos.github.io/PySDM)
 
 #### Tools:
 - [Pint](https://pint.readthedocs.io/) (dimensional analysis and auto-labelling plots with units)
