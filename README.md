@@ -13,7 +13,7 @@
 - Focus on: 
   - moving-sectional/particle-based representation of cloud microphysics;
   - "SDM" Monte-Carlo algorithm for solving coagulation problems;
-  - ODEs describing evolution of liquid particle sizes in a vertically displaced adiabatic parcel of humid air for modelling diffusional growth and the resultant phenomena of aerosol activarion and drop ripening.
+  - ODEs describing evolution of liquid particle sizes in a vertically displaced adiabatic parcel of humid air for modelling diffusional growth and the resultant phenomena of aerosol activation and drop ripening.
 - Outline the rationale behind, present the usage examples & encourage your contributions to the [PySDM](https://open-atmos.github.io/PySDM/) package
 
 #### Notebooks:
@@ -37,7 +37,7 @@
 - [Pint](https://pint.readthedocs.io/) for dimensional analysis and auto-labelling plots with units
 - [SciPy ODE solvers](https://docs.scipy.org/doc/scipy/reference/integrate.html) for numerically integrating stiff ODE systems
 - [Numba](https://numba.pydata.org/) for just-in-time compilation of Python code
-- [PySDM](https://open-atmos.github.io/PySDM) for integrating Pint with SciPy ODE solvers and Numba, and for pre-built particle-based cloud-micropphysics modelling examples
+- [PySDM](https://open-atmos.github.io/PySDM) for integrating Pint with SciPy ODE solvers and Numba, and for pre-built particle-based cloud-microphysics modelling examples
 - [open-atmos-jupyter-utils](https://pypi.org/project/open-atmos-jupyter-utils/) for embedding vector graphics and animations in Jupyter notebooks
 
 ### Further reading:
