@@ -1,7 +1,7 @@
 # hacking aerosol-cloud μ-physics modeling concepts in Python
 ### (mini-workshop @Uni. Washington Seattle, Jan 2026)
 
-<iframe src="https://mozilla.github.io/pdf.js/web/viewer.html?file=https://raw.githubusercontent.com/slayoo/seattle-2026-workshop/main/flyer.pdf" width="50%" height="600px" style="border: none;"> </iframe>
+(see <a href="https://raw.githubusercontent.com/slayoo/seattle-2026-workshop/main/flyer.pdf">flyer</a>)
 
 #### Notebooks:
 - **Part 1**: size spectrum sampling using SciPy
