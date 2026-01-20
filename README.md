@@ -11,7 +11,7 @@
   - partial
   - [complete](https://github.com/slayoo/seattle-2026-workshop/tree/main/part_2_SDM_complete.ipynb)      
 - **Part 3**: dimensional analysis using Pint (and PySDM.physics)
-  - [partial]()
+  - partial
   - [complete]()
 - **Part 4**: condensational growth (incl. activation and ripening) in an adiabatic parcel model:
   - partial
