@@ -1,5 +1,5 @@
 # hacking aerosol-cloud μ-physics modeling concepts in Python
-### [(mini-workshop @Uni. Washington Seattle, Jan 2026 (click for a flyer pdf))](https://raw.githubusercontent.com/slayoo/seattle-2026-workshop/main/flyer.pdf)
+### [mini-workshop @Uni. Washington Seattle, Jan 2026 (click for a flyer pdf)](https://raw.githubusercontent.com/slayoo/seattle-2026-workshop/main/flyer.pdf)
 
 #### Speakers:
 - [Sylwester Arabas (AGH.edu.pl)](https://open-atmos-krk.github.io/)
