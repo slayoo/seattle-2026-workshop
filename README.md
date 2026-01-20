@@ -48,6 +48,9 @@
 
 #### License: [Creative Commons Zero](https://creativecommons.org/public-domain/cc0/) (i.e. public domain)
 
-#### Credits: materials composed by [Sylwester Arabas (AGH)](https://slayoo.github.io) and [Emma Ware (UCDavis)](https://emmaware.weebly.com/) with contributions from [Daria Klimaszewska (AGH)](https://github.com/thearia0/) & [Agnieszka Żaba (AGH)](https://github.com/AgnieszkaZaba)
+#### Credits: 
+- materials composed by [Sylwester Arabas (AGH)](https://slayoo.github.io) and [Emma Ware (UCDavis)](https://emmaware.weebly.com/)
+- contributions from [Daria Klimaszewska (AGH)](https://github.com/thearia0/) & [Agnieszka Żaba (AGH)](https://github.com/AgnieszkaZaba)
+- thank you to @Nightingale_LZH for spotting bug in SDM notebook
 
 #### Funding: European Union Erasmus+ Staff Mobility programme
