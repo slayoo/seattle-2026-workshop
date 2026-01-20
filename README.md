@@ -27,7 +27,7 @@
   - partial
   - [complete](https://github.com/slayoo/seattle-2026-workshop/blob/main/part_3_units_with_pint_and_pysdm_complete.ipynb)
 - **Part 4**: condensational growth (incl. activation and ripening) in an adiabatic parcel model:
-  - partial
+  - [partial](https://github.com/slayoo/seattle-2026-workshop/tree/main/part_4_CCN_partial.ipynb)    
   - [complete](https://github.com/slayoo/seattle-2026-workshop/tree/main/part_4_CCN_complete.ipynb)    
 - **Part 5**: particle-based μ-physics simulations with diffusional & collisional processes using PySDM (box, parcel, single-column and beyond)
   - [PySDM documentation](https://open-atmos.github.io/PySDM)
