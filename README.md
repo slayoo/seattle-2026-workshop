@@ -19,7 +19,7 @@
   - [partial](https://github.com/slayoo/seattle-2026-workshop/tree/main/part_1_scipy_sampling_partial.ipynb)
   - [complete](https://github.com/slayoo/seattle-2026-workshop/tree/main/part_1_scipy_sampling_complete.ipynb)
 - **Part 2**: SDM collisional growth Monte-Carlo algorithm in a box model (incl. validation against the Safranov-Golovin analytic solution to the Smoluchowski equation)
-  - partial
+  - [partial](https://github.com/slayoo/seattle-2026-workshop/tree/main/part_2_SDM_partial.ipynb)      
   - [complete](https://github.com/slayoo/seattle-2026-workshop/tree/main/part_2_SDM_complete.ipynb)      
 - **Part 3**: dimensional analysis using Pint (and PySDM.physics)
   - partial
