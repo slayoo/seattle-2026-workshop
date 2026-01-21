@@ -51,6 +51,6 @@
 #### Credits: 
 - materials composed by [Sylwester Arabas (AGH)](https://slayoo.github.io) and [Emma Ware (UCDavis)](https://emmaware.weebly.com/)
 - contributions from [Daria Klimaszewska (AGH)](https://github.com/thearia0/) & [Agnieszka Żaba (AGH)](https://github.com/AgnieszkaZaba)
-- thank you to [@Nightingale_LZH](https://github.com/Nightingale_LZH) for spotting bug in SDM notebook
+- thank you to [Zihui (Andy) Liu](https://github.com/Nightingale-LZH) for spotting bug in SDM notebook
 
 #### Funding: European Union Erasmus+ Staff Mobility programme
