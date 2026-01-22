@@ -51,6 +51,8 @@
 #### Credits: 
 - materials composed by [Sylwester Arabas (AGH)](https://slayoo.github.io) and [Emma Ware (UCDavis)](https://emmaware.weebly.com/)
 - contributions from [Daria Klimaszewska (AGH)](https://github.com/thearia0/) & [Agnieszka Żaba (AGH)](https://github.com/AgnieszkaZaba)
-- thank you to [Zihui (Andy) Liu](https://github.com/Nightingale-LZH) for spotting bug in SDM notebook
+- thank you to [Zihui (Andy) Liu](https://github.com/Nightingale-LZH) for spotting the parenthesis bug in SDM imlpementation
+- thanks to [Rob Wood](https://environment.uw.edu/faculty/robert-wood/) for organisation and for hosting the workshop
+- thanks to all participants!
 
 #### Funding: European Union Erasmus+ Staff Mobility programme
