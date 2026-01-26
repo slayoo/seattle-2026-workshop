@@ -1,11 +1,17 @@
 # hacking aerosol-cloud μ-physics modeling concepts in Python
-### [mini-workshop @Uni. Washington Seattle, Jan 2026 (click for a flyer pdf)](https://raw.githubusercontent.com/slayoo/seattle-2026-workshop/main/flyer.pdf)
+## mini-workshop @Uni. Washington Seattle, Jan 2026
 
 #### Speakers:
 - [Sylwester Arabas (AGH.edu.pl)](https://open-atmos-krk.github.io/)
 - [Emma Ware (UCDavis.edu)](https://emmaware.weebly.com/)
 
-(acknowledging Erasmus+ support!)
+#### Resources:
+- [flyer](https://raw.githubusercontent.com/slayoo/seattle-2026-workshop/main/flyer.pdf)
+- [intro slides (particle-based methods)](https://raw.githubusercontent.com/slayoo/seattle-2026-workshop/main/slides_into.pdf)
+- [Emma's lightning talk on adaptive timestepping in SDM](https://raw.githubusercontent.com/slayoo/seattle-2026-workshop/main/slides_adaptive_timestepping.pdf.pdf)
+- [outline of PySDM examples and architecture](https://raw.githubusercontent.com/slayoo/seattle-2026-workshop/main/slides_pysdm.pdf)
+- [Sylwester's talk lightning talk on particle-based models of immersion freezing](https://raw.githubusercontent.com/slayoo/seattle-2026-workshop/main/slides_immersion_freezing.pdf)
+- [group photo](https://raw.githubusercontent.com/slayoo/seattle-2026-workshop/main/group_photo.pdf)
 
 #### Synopsis: we're going to
 - Code in a Pythonic way, and interactively explore (simple yet functional) models of diffusional and collisional growth of cloud droplets.
