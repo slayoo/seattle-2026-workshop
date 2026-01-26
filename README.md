@@ -23,20 +23,11 @@
 - Outline the rationale behind, present the usage examples & encourage your contributions to the [PySDM](https://open-atmos.github.io/PySDM/) package
 
 #### Notebooks:
-- **Part 1**: size spectrum sampling using SciPy
-  - [partial](https://github.com/slayoo/seattle-2026-workshop/tree/main/part_1_scipy_sampling_partial.ipynb)
-  - [complete](https://github.com/slayoo/seattle-2026-workshop/tree/main/part_1_scipy_sampling_complete.ipynb)
-- **Part 2**: SDM collisional growth Monte-Carlo algorithm in a box model (incl. validation against the Safranov-Golovin analytic solution to the Smoluchowski equation)
-  - [partial](https://github.com/slayoo/seattle-2026-workshop/tree/main/part_2_SDM_partial.ipynb)      
-  - [complete](https://github.com/slayoo/seattle-2026-workshop/tree/main/part_2_SDM_complete.ipynb)      
-- **Part 3**: dimensional analysis using Pint (and PySDM.physics)
-  - [partial](https://github.com/slayoo/seattle-2026-workshop/blob/main/part_3_units_with_pint_and_pysdm_partial.ipynb)
-  - [complete](https://github.com/slayoo/seattle-2026-workshop/blob/main/part_3_units_with_pint_and_pysdm_complete.ipynb)
-- **Part 4**: condensational growth (incl. activation and ripening) in an adiabatic parcel model:
-  - [partial](https://github.com/slayoo/seattle-2026-workshop/tree/main/part_4_CCN_partial.ipynb)    
-  - [complete](https://github.com/slayoo/seattle-2026-workshop/tree/main/part_4_CCN_complete.ipynb)    
-- **Part 5**: particle-based μ-physics simulations with diffusional & collisional processes using PySDM (box, parcel, single-column and beyond)
-  - [PySDM documentation](https://open-atmos.github.io/PySDM)
+- [Part 1: size spectrum sampling using SciPy](https://github.com/slayoo/seattle-2026-workshop/tree/main/part_1_scipy_sampling_complete.ipynb)
+- [Part 2: SDM collisional growth Monte-Carlo algorithm in a box model (incl. validation against the Safranov-Golovin analytic solution to the Smoluchowski equation)](https://github.com/slayoo/seattle-2026-workshop/tree/main/part_2_SDM_complete.ipynb)      
+- [Part 3: dimensional analysis using Pint (and PySDM.physics)](https://github.com/slayoo/seattle-2026-workshop/blob/main/part_3_units_with_pint_and_pysdm_complete.ipynb)
+- [Part 4: condensational growth (incl. activation and ripening) in an adiabatic parcel model](https://github.com/slayoo/seattle-2026-workshop/tree/main/part_4_CCN_complete.ipynb)    
+- [Part 5: particle-based μ-physics simulations with diffusional & collisional processes using PySDM (box, parcel, single-column and beyond)](https://open-atmos.github.io/PySDM)
 
 #### Tools:
 - [SciPy stats](https://docs.scipy.org/doc/scipy/reference/stats.html) for a library of probability distributions
