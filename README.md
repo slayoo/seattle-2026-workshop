@@ -11,8 +11,6 @@
 - [Emma's lightning talk on adaptive timestepping in SDM](https://raw.githubusercontent.com/slayoo/seattle-2026-workshop/main/slides_adaptive_timestepping.pdf)
 - [outline of PySDM examples and architecture](https://raw.githubusercontent.com/slayoo/seattle-2026-workshop/main/slides_pysdm.pdf)
 - [Sylwester's talk lightning talk on particle-based models of immersion freezing](https://raw.githubusercontent.com/slayoo/seattle-2026-workshop/main/slides_immersion_freezing.pdf)
-                                                                                             https://raw.githubusercontent.com/slayoo/seattle-2026-workshop/main/slides_immersion_freezing.pdf
-
 - [group photo](https://raw.githubusercontent.com/slayoo/seattle-2026-workshop/main/group_photo.pdf)
 
 #### Synopsis: we're going to
